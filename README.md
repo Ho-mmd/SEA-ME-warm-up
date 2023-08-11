@@ -1,4 +1,4 @@
-# SEA:ME Warm Up
+# SEA:ME / Warm Up
 ## Introduction to peer-peer learning & collaboration  
 </br>
 
