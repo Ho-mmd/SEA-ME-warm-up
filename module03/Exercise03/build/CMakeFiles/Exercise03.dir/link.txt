@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Exercise03.dir/Exercise03_autogen/mocs_compilation.cpp.o CMakeFiles/Exercise03.dir/main.cpp.o CMakeFiles/Exercise03.dir/phonebook.cpp.o -o Exercise03  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

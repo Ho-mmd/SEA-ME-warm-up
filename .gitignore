@@ -1,0 +1,6 @@
+module00/phone
+module00/convert
+test*
+build*
+*.txt
+
