@@ -5,4 +5,5 @@ build*
 *.txt.*
 *.vscode
 phone*
+CMakeLists.txt
 
