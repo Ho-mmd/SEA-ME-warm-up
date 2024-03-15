@@ -1,7 +1,5 @@
 # SEA:ME / Warm Up
 
-## [Orthodox Canonical Form]
-
 # Modules
 ## [Module00](./Modules/Module00.md)
 ## [Module01](./Modules/Module01.md)
